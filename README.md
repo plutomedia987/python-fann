@@ -1,7 +1,7 @@
 python-fann
 ===========
 
-Python bindings for the Fast Artificial Neural Network ("FANN") library
+Python bindings for the Fast Artificial Neural Network ("FANN") library https://github.com/libfann/fann
 
 This python binding is provided by Vincenzo Di Massa <hawk.it@tiscalinet.it>
 and Gil Megidish <gil@megidish.net>
