@@ -21,7 +21,7 @@ documented, and fast.
 
 #These lines are needed to circumvent a bug in distutils
 swig_cmd = 'swig -c++ -python pyfann/pyfann.i'
-print 'Running SWIG before:', swig_cmd
+print('Running SWIG before:', swig_cmd)
 os.system(swig_cmd)
 
 #This utility function searches for files
